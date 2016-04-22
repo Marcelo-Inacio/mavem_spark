@@ -7,14 +7,14 @@ import static spark.Spark.post;
 import static spark.Spark.options;
 import com.google.gson.Gson;
 
+import br.com.fatec.commons.CorsFilter;
 import br.com.fatec.commons.JsonUtil;
 import br.com.fatec.commons.Token;
-import br.com.fatec.connection.CorsFilter;
-import br.com.fatec.entity.Enrolls;
-import br.com.fatec.entity.TokenInfo;
-import br.com.fatec.entity.User;
 import br.com.fatec.model.ModelEnrolls;
 import br.com.fatec.model.ModelUser;
+import br.com.fatec.model.entity.Enrolls;
+import br.com.fatec.model.entity.TokenInfo;
+import br.com.fatec.model.entity.User;
 
 public class UserRoutes {	
 	

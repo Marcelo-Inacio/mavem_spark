@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="br.com.fatec.commons.ConnectionMySql"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="br.com.fatec.entity.Competence"/>
+<fullyQualifiedTypeName name="java.lang.ProcessBuilder.Redirect"/>
+<fullyQualifiedTypeName name="spark.Route"/>
+<fullyQualifiedTypeName name="spark.Request"/>
+<fullyQualifiedTypeName name="spark.Response"/>
+<fullyQualifiedTypeName name="spark.Spark"/>
+</qualifiedTypeNameHistroy>

@@ -2,9 +2,10 @@ package br.com.fatec.model;
 
 import java.sql.SQLException;
 import java.util.List;
-import br.com.fatec.dao.DaoCourse;
-import br.com.fatec.dao.DaoInstitutionCourse;
-import br.com.fatec.entity.Course;
+
+import br.com.fatec.model.dao.DaoCourse;
+import br.com.fatec.model.dao.DaoInstitutionCourse;
+import br.com.fatec.model.entity.Course;
 
 public class ModelCourse {
 

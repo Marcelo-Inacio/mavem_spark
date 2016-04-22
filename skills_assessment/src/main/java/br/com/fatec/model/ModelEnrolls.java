@@ -3,8 +3,8 @@ package br.com.fatec.model;
 import java.sql.SQLException;
 import java.util.List;
 
-import br.com.fatec.dao.DaoEnrolls;
-import br.com.fatec.entity.Enrolls;
+import br.com.fatec.model.dao.DaoEnrolls;
+import br.com.fatec.model.entity.Enrolls;
 
 public class ModelEnrolls {
 	

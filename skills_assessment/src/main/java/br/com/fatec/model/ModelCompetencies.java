@@ -24,8 +24,9 @@ package br.com.fatec.model;
 
 import java.sql.SQLException;
 import java.util.List;
-import br.com.fatec.dao.DaoCompetencies;
-import br.com.fatec.entity.Competence;
+
+import br.com.fatec.model.dao.DaoCompetencies;
+import br.com.fatec.model.entity.Competence;
 
 public class ModelCompetencies {
 

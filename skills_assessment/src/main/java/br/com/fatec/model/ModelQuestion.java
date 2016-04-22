@@ -2,8 +2,8 @@ package br.com.fatec.model;
 import java.sql.SQLException;
 import java.util.List;
 
-import br.com.fatec.dao.DaoQuestion;
-import br.com.fatec.entity.Question;
+import br.com.fatec.model.dao.DaoQuestion;
+import br.com.fatec.model.entity.Question;
 
 public class ModelQuestion {
 	

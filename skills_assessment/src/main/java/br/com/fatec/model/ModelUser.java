@@ -4,8 +4,8 @@ import java.sql.SQLException;
 import java.util.LinkedList;
 import java.util.List;
 
-import br.com.fatec.dao.DaoUser;
-import br.com.fatec.entity.User;
+import br.com.fatec.model.dao.DaoUser;
+import br.com.fatec.model.entity.User;
 
 public class ModelUser {
 	ModelQuiz modelQuiz = new ModelQuiz();

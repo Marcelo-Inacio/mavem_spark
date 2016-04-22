@@ -2,9 +2,9 @@ package br.com.fatec.model;
 
 import java.sql.SQLException;
 
-import br.com.fatec.dao.DaoQuiz;
-import br.com.fatec.entity.Question;
-import br.com.fatec.entity.Quiz;
+import br.com.fatec.model.dao.DaoQuiz;
+import br.com.fatec.model.entity.Question;
+import br.com.fatec.model.entity.Quiz;
 
 public class ModelQuiz {
 	

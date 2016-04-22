@@ -10,10 +10,10 @@ import java.util.List;
 
 import com.google.gson.Gson;
 
+import br.com.fatec.commons.CorsFilter;
 import br.com.fatec.commons.JsonUtil;
-import br.com.fatec.connection.CorsFilter;
-import br.com.fatec.entity.Question;
 import br.com.fatec.model.ModelQuestion;
+import br.com.fatec.model.entity.Question;
 
 public class QuestionRoutes{
 	
