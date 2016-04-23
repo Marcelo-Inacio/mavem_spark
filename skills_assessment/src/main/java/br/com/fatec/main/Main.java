@@ -24,13 +24,14 @@ public class Main {
 		
 		staticFileLocation("/view");
 		get( "/", (request, response) -> {
-			response.redirect("/Login.html");
-			return null;
+			//response.redirect("/Login.html");
+			//return null;
+			return "PAGINA WEB OPENSHIFT";
 		});
 		
-		CorsFilter.apply();
+		//CorsFilter.apply();
 		
-		startRest();
+		//startRest();
 
 	}
 	
